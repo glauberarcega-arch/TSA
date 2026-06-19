@@ -1,4 +1,1 @@
-status=2
-link=
-versao=TSA v4.0 Professional Edition - Perkons S.A
-
+versao=1.0
