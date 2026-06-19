@@ -1,2 +1,3 @@
 versao=2.0
 link=https://raw.githubusercontent.com/glauberarcega-arch/TSA/main/zip.txt
+block=0
